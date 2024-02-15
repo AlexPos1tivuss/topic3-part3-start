@@ -1,6 +1,5 @@
 package com.topic3.android.reddit.screens
 
-package com.topic3.android.reddit.screens
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.height
